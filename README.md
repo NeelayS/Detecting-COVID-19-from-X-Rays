@@ -1,4 +1,4 @@
-# Predicting-COVID-19-from-X-Rays
+# Detecting-COVID-19-from-X-Rays
 
 Some experimentation on chest X-Ray data to detect the presence of the COVID-19 virus. This repository is only for educational 
 purposes. This isn't a scientifically rigorous study and no conclusions can be drawn from the results.
